@@ -7,7 +7,7 @@ import (
 
 func main() {
 	if len(os.Args) != 2 {
-		log.Fatal("invalid args. Expect one of [producer-consumer,worker-pool,batch,rate-limit,fan,circuit-breaker]")
+		log.Fatal("invalid args. Expect one of [producer-consumer,worker-pool,batch,rate-limit,fan,circuit-breaker,map-reduce]")
 	}
 	switch os.Args[1] {
 	case "producer-consumer":
@@ -20,5 +20,9 @@ func main() {
 		FanInOut()
 	case "circuit-breaker":
 		CircuitBreaker()
+	case "map-reduce":
+		MapReduce()
+	default:
+		log.Fatal("invalid args. Expect one of [producer-consumer,worker-pool,batch,rate-limit,fan,circuit-breaker,map-reduce]")
 	}
 }

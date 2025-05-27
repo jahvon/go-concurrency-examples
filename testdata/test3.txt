@@ -1,0 +1,15 @@
+MapReduce is a programming model
+MapReduce is used for processing
+MapReduce can handle large datasets
+Processing with MapReduce is efficient
+Large datasets need MapReduce
+Processing data requires careful planning
+MapReduce helps with distributed computing
+Distributed systems use MapReduce
+MapReduce was developed by Google
+Google uses MapReduce for search
+Processing large datasets requires MapReduce
+MapReduce makes parallel processing easier
+Parallel processing improves performance
+Large scale processing needs MapReduce
+MapReduce scales horizontally well

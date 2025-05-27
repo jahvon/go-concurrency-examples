@@ -1,0 +1,13 @@
+Test123 is a test
+123 is a number
+test-case should handle dashes
+test_case should handle underscores
+(testing) [handling] {special} characters!
+We need to handle 12,345 numbers
+Is Test123 the same as TEST123?
+What about Test-123 and Test_123?
+special@characters.com should work
+#hashtags #should #work
+multiple!!!punctuation???marks...
+12345 and 12.345 are different
+test-case TEST-CASE test_case TEST_CASE
